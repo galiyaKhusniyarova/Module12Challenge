@@ -1,5 +1,6 @@
 # Module12Challenge
-The task is to create a Jupyter notebook that contains the data preparation, analysis, and visualizations for all the time series data that the company(MercadoLibre) needs to understand.
+The task is to build a model that can identify the creditworthiness of borrowers based on a dataset of historical lending activity from a peer-to-peer lending services company.
+
 
 # Technologies
 - python 3.9.13
