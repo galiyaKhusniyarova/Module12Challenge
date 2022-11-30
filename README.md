@@ -23,9 +23,9 @@ If you want to run the program yourself and/or enter different data, do the foll
 * We used a dataset of historical lending activity from a peer-to-peer lending services company. </br>
 <img width="862" alt="image" src="https://user-images.githubusercontent.com/111472420/204694069-d492cf15-914b-4edd-afbe-1c309e7e5a69.png"> </br>
 We used the logistic regression model, that predicts both the `0` (healthy loan) and `1` (high-risk loan) classes.
-* Variables we were trying to predict. </br>
+* Variables and functions used: </br>
 <img width="558" alt="image" src="https://user-images.githubusercontent.com/111472420/204698449-1bda2096-d79b-4189-b421-4ca776da7038.png">
-<img width="674" alt="image" src="https://user-images.githubusercontent.com/111472420/204698538-6ca55586-6b1b-4615-9e38-384de0943872.png"> </br>
+<img width="674" alt="image" src="https://user-images.githubusercontent.com/111472420/204698538-6ca55586-6b1b-4615-9e38-384de0943872.png">
 
 
 * The stages of the machine learning process we went through as part of this analysis:
